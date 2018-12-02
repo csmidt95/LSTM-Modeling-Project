@@ -1,3 +1,4 @@
+#This is the code used after the presentation with bootstrapping
 from sklearn.utils import resample
 import pandas
 import matplotlib.pyplot as plt
